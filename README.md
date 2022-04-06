@@ -1,5 +1,8 @@
 # Ayaulym
 Asylbekova
+
+
+
 from numpy import*
 from sympy import*
 x = symbols('x')
